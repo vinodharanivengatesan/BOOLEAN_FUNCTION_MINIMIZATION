@@ -16,6 +16,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
+Boolean function minimization is the process of simplifying complex Boolean expressions to their most efficient form while preserving their logical function. The goal is to reduce the number of logic gates, literals, and wiring needed for implementation in digital circuits, leading to lower costs, improved speed, and reduced power consumption.
+
 **Logic Diagram**
 
 **Procedure**
@@ -45,19 +47,20 @@ Developed by: Vinodharani RegisterNumber:25015399
 
 
 **RTL realization**
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/d46749a9-3b00-4cb4-8e89-3d4313e65439" />
 
 
 **Output:**
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/8bfae320-dd44-4b58-84ff-a548d1d68448" />
 
 
 **RTL**
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/0cc889cd-4051-4023-a872-30eb52255c57" />
+![WhatsApp Image 2025-11-17 at 15 03 31_d7e9f368](https://github.com/user-attachments/assets/b1ae28c6-8b8b-4f27-8cf5-3e5fa00a4632)
+
 
 
 **Timing Diagram**
-<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/10f0bc9c-e3df-46f8-b811-9e59a72c7f43" />
+
+![WhatsApp Image 2025-11-17 at 15 03 13_8ee8dea3](https://github.com/user-attachments/assets/44db2f2a-e9d6-469a-8a29-2fcdc2ba8ce8)
+
 
 
 **Result:**
